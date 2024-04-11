@@ -1,0 +1,4 @@
+host = 192.168.2.200
+user = rizzato_filippo
+password = scouring.immodestys.hiding.
+database = rizzato_filippo_API
