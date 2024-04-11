@@ -1,4 +1,0 @@
-host = localhost
-user = rizzato_filippo
-password = scouring.immodestys.hiding.
-database = rizzato_filippo_API
